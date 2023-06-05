@@ -1,0 +1,12 @@
+@import 'normalize.css';
+
+:root {
+  background-color: #ffffff;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-height: 100vh;
+}
